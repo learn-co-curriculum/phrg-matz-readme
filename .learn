@@ -8,3 +8,5 @@ resources:
   - 0
 notifications:
   password_hard_wall: true
+
+parent_template: git@github.com:learn-co-curriculum/matz-readme.git
