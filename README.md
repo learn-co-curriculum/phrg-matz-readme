@@ -30,4 +30,8 @@ The Ruby community is characterized by respect for one another and a love of pro
 
 You can read more about [why we teach ruby](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba).
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-matz-readme/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-matz-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG MINSWAN: Matz and the Ruby Language</p>
